@@ -9,5 +9,5 @@ Download [WordNet](https://wordnet.princeton.edu/wordnet/download/ "WordNet®") 
 
 References
 ----------
-Princeton University "About WordNet." WordNet. Princeton University. 2010. http://wordnet.princeton.edu
-Banerjee, Satanjeev, and Ted Pedersen. "An adapted Lesk algorithm for word sense disambiguation using WordNet." International Conference on Intelligent Text Processing and Computational Linguistics. Springer, Berlin, Heidelberg, 2002.
+* Princeton University "About WordNet." WordNet. Princeton University. 2010. http://wordnet.princeton.edu
+* Banerjee, Satanjeev, and Ted Pedersen. "An adapted Lesk algorithm for word sense disambiguation using WordNet." International Conference on Intelligent Text Processing and Computational Linguistics. Springer, Berlin, Heidelberg, 2002.
