@@ -5,7 +5,8 @@ Uses Satanjeev Banerjee's [adapted Lesk algorithm](http://www.d.umn.edu/~tpeders
 
 TODO
 ----
-Download [WordNet](https://wordnet.princeton.edu/wordnet/download/ "WordNet®") and set `wordnet.database.dir` using `System.setProperty`.
+* Download [WordNet](https://wordnet.princeton.edu/wordnet/download/ "WordNet®").
+* In line 18, set `wordnet.database.dir` using `System.setProperty`.
 
 References
 ----------
