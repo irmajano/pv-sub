@@ -1,7 +1,7 @@
 PV-Sub - Phrasal Verb Substitution
 ==================================
 
-Uses Satanjeev Banerjee's [adapted Lesk algorithm](http://www.d.umn.edu/~tpederse/Pubs/banerjee.pdf "Adapting the Lesk Algorithm for Word Sense Disambiguation to WordNet") for word sense disambiguation using [WordNet](https://wordnet.princeton.edu/ "WordNet®").
+Uses Satanjeev Banerjee's [adapted Lesk algorithm](http://www.d.umn.edu/~tpederse/Pubs/banerjee.pdf "*"Adapting the Lesk Algorithm for Word Sense Disambiguation to WordNet"*") for word sense disambiguation using [WordNet](https://wordnet.princeton.edu/ "WordNet®").
 
 TODO
 ----
